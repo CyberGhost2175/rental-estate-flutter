@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">963496312875-sgk1o0qvf2fl3ltu9k4iccqom5kn2t3r.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">963496312875</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWSGHIVy8GfBAUNvmB6P_JsjMfm6yv1CM</string>
+    <string name="google_app_id" translatable="false">1:963496312875:android:5e2dcf4941bac084cc6a6e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWSGHIVy8GfBAUNvmB6P_JsjMfm6yv1CM</string>
+    <string name="google_storage_bucket" translatable="false">rentalestate-5432e.firebasestorage.app</string>
+    <string name="project_id" translatable="false">rentalestate-5432e</string>
+</resources>

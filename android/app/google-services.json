@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "963496312875",
+    "project_id": "rentalestate-5432e",
+    "storage_bucket": "rentalestate-5432e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963496312875:android:5e2dcf4941bac084cc6a6e",
+        "android_client_info": {
+          "package_name": "com.example.rental_estate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963496312875-jbmcou6p7g9f3ntptgkjl740ki7pib4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rental_estate_app",
+            "certificate_hash": "d1e347b6f007b53ebb628ee952e0d21dfc59f622"
+          }
+        },
+        {
+          "client_id": "963496312875-sgk1o0qvf2fl3ltu9k4iccqom5kn2t3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWSGHIVy8GfBAUNvmB6P_JsjMfm6yv1CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963496312875-sgk1o0qvf2fl3ltu9k4iccqom5kn2t3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
